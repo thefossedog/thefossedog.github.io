@@ -1,5 +1,5 @@
 ---
-title: Printing Problems v1 - Warping
+title: 'Printing Problems #1 - Warping'
 ---
 
 Warping is how it sounds, the 3d print starts to curl up off the print bed as it prints and warp.
